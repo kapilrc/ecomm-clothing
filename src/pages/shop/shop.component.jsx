@@ -3,7 +3,7 @@ import SHOP_DATA from './shop.data'
 import CollectionPreview from '../../components/collection-preview/collection-preview.component';
 
 
-export class ShopPage extends Component {
+class ShopPage extends Component {
   constructor() {
     super() 
 
